@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OHSTimer", "OHSTimer\OHSTimer.csproj", "{CF19128E-4B6F-4E01-A0DB-46FB533F4088}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LuLu.Core.Wpf", "LuLu.Core.Wpf\LuLu.Core.Wpf.csproj", "{47262177-A898-4255-A7A6-B272DDD318DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF19128E-4B6F-4E01-A0DB-46FB533F4088}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF19128E-4B6F-4E01-A0DB-46FB533F4088}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF19128E-4B6F-4E01-A0DB-46FB533F4088}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF19128E-4B6F-4E01-A0DB-46FB533F4088}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47262177-A898-4255-A7A6-B272DDD318DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47262177-A898-4255-A7A6-B272DDD318DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47262177-A898-4255-A7A6-B272DDD318DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47262177-A898-4255-A7A6-B272DDD318DE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B9880911-4BAC-43B6-B712-33BECD1BC7CB}
+	EndGlobalSection
+EndGlobal
